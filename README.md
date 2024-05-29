@@ -1,6 +1,6 @@
 # Case Study: Analyzing Customer Churn in Power BI
 
-## Course Highlights
+## Case Study Highlights
 
 This hands-on case study focused on the fictitious telecom company, Databel, and provided invaluable insights into understanding and addressing customer churn. Here’s a glimpse of what I accomplished:
 
